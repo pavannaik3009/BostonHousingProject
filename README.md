@@ -46,3 +46,4 @@ lower status of the population (percent).
 medv
 median value of owner-occupied homes in $1000s.
 ```
+ The dataset can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
